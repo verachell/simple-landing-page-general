@@ -1,6 +1,7 @@
 # simple-landing-page-general
 A very simple landing page for before you have time to put up a fancier landing page
 
+## General purpose theme
 This has a general-purpose theme suitable for virtually any type of site.
 
 ## Why would you need such a simple landing page? It's not at all fancy!
@@ -12,4 +13,9 @@ Even if you plan to put up a fancier landing page soon, you'll want something ri
 
 ## Installation
 ### At your web host
-Simply place these files in your document root.  Usually this will be called public_html, but wherever the files for that domain would go.
+Simply place these files in your document root.  Usually this will be called public_html, but wherever the files for that domain would go. 
+
+Navigate to your domain name, and the simple landing page will display. 
+
+### Locally
+Put these files in a directory on your computer. Then, using your browser, navigate to file:///path/to/file to view the simple landing page.
