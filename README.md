@@ -1,5 +1,5 @@
 # simple-landing-page-general
-A very simple landing page for before you have time to put up a fancier landing page. You can see it at https://verachell.github.io/simple-landing-page-general/ . Installation instructions given on README page.
+A very simple landing page for before you have time to put up a fancier landing page. You can see it at https://verachell.github.io/simple-landing-page-general/ . Installation instructions given on README page. 
 
 ## General purpose theme
 This has a general-purpose theme suitable for virtually any type of site. Although very simple, it's clean and responsive. This has a public domain license (the Unlicense).
